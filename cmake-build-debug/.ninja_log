@@ -1,0 +1,5 @@
+# ninja log v5
+2	234	1680885073772958684	CMakeFiles/file_manager.dir/command_line.cpp.o	e299d17d2f0bcbc8
+2	235	1680885073772954892	CMakeFiles/file_manager.dir/user_interface.cpp.o	f601395ef828203a
+0	513	1680885074052117331	CMakeFiles/file_manager.dir/main.cpp.o	12f9503d42808de5
+3	517	1680885321044738833	CMakeFiles/file_manager.dir/main.cpp.o	12f9503d42808de5

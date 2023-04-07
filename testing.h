@@ -1,0 +1,6 @@
+#ifndef FILE_MANAGER_TESTING_H
+#define FILE_MANAGER_TESTING_H
+
+int run_tests();
+
+#endif //FILE_MANAGER_TESTING_H
